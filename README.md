@@ -13,9 +13,11 @@ MyToken" written in Solidity for the Ethereum blockchain. The contract includes 
 # Getting started
 
 Installing
+
 Copy the code and paste it into Remix- Etherium IDE
 
 Executing program
+
 After completing the code, we will compile it by clicking on the myToken.sol icon in the Solidity compiler. After clicking on the icon, go to Deploy and run transactions. Under the deployed contracts, we can see the variables and the functions declared. After that, we can use the default address provided. Paste the address in the mint, add the value, and check the balance. Also, we can burn the token via the burn function. Add the address, and burn the token. Check the balance  We can work with the functions by applying different values. In this way, we can create a new token.
 
 # Authors
